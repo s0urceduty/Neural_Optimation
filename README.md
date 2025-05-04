@@ -11,6 +11,6 @@ Furthermore, OANNs are inherently equipped to incorporate novel mathematical fun
 
 #
 
-![Neural Optimation](https://github.com/user-attachments/assets/dd4ec656-88b4-40dc-a0a0-fec835306ead)
-
+[Optimation Math](https://github.com/s0urceduty/Optimation_Math)
+<br>
 [Neural Optimation](https://chatgpt.com/g/g-6817eae33a988191ada3321300a603ca-neural-optimation)
